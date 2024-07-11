@@ -11,20 +11,20 @@ I'm **Akshay** a self-taught passionate full-stack developer with a knack for De
 [![GitHub: akay39](https://img.shields.io/github/followers/rkv225?label=follow&style=social)](https://github.com/akay39)
 [![LeetCode: akay39](https://img.shields.io/badge/Leetcode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/akay39/)
 [![Linkedin: akay39](https://img.shields.io/badge/-rkv225-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akay39/)](https://www.linkedin.com/in/akay39/)
-[![Gmail: rkv225@gmail.com](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:akkidpic39@gmail.com)
+[![Gmail: akkidpic39@gmail.com](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:akkidpic39@gmail.com)
 
 ### My Coursework 🌱
 
- <a href="https://github.com/rkv225/Learning-CSharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Learning-CSharp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs-svg"></a>
- <a href="https://github.com/rkv225/STL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=STL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="stl-svg"></a>
- <a href="https://github.com/rkv225/Algorithms-Practise"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Algorithms-Practise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dsa-svg"></a>
- <a href="https://github.com/rkv225/Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Design-Patterns&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="design-patterns-svg"></a>
+ <a href="https://github.com/akay39/Learning-CSharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Learning-CSharp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs-svg"></a>
+ <a href="https://github.com/akay39/STL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=STL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="stl-svg"></a>
+ <a href="https://github.com/akay39/Algorithms-Practise"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Algorithms-Practise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dsa-svg"></a>
+ <a href="https://github.com/akay39/Design-Patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkv225&repo=Design-Patterns&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="design-patterns-svg"></a>
 
  ### My Github ![Github](https://img.shields.io/badge/-black.svg?logo=github)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rkv225&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=flat-square)](https://github.com/akay39)
+[![Profile Views](https://komarev.com/ghpvc/?username=akay39&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=flat-square)](https://github.com/akay39)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rishabh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rkv225&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rishabh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=akay39&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Akshay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akki39&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
